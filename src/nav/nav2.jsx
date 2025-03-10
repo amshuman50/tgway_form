@@ -18,7 +18,7 @@ export default function Nav2() {
     return (
         <>
             {/* <div style={{backgroundColor:"#45eb45", border: "2px solid #45eb45"}}> */}
-            <div style={{background:"conic-gradient(from 50deg, red, yellow, green)", border: "2px solid #45eb45"}}>
+            <div style={{background:"#FDF4E6", border: "2px solid #FDF4E6"}}>
                 <div style={{ display: 'flex', justifyContent: 'space-around', marginTop: 10 }}>
                     {/* <div id='container'> */}
                     {/* <CountrySelect /> */}
